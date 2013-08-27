@@ -1,0 +1,10 @@
+{
+  "name": "winston-mongodb",
+  "description": "1 liner to expose MongoDB transport, packaged for Meteor",
+  "homepage": "",
+  "author": "David Grajal <david@tran.sl>",
+  "version": "0.0.1",
+  "git": "https://github.com/dgrabla/meteor-winston-mongodb",
+  "packages": {
+	}
+}
