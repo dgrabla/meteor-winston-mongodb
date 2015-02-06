@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.versionsFrom('0.1.0');
+  api.versionsFrom('1.0.1');
   api.add_files('winston-mongodb.js', 'server');
   if (api.export) {
     api.export("MongoDB", 'server');

@@ -3,7 +3,7 @@
   "description": "1 liner to expose MongoDB transport, packaged for Meteor",
   "homepage": "https://github.com/dgrabla/meteor-winston-mongodb",
   "author": "David Grajal <david@tran.sl>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/dgrabla/meteor-winston-mongodb.git",
   "packages": {
 	}
